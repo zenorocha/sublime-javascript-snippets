@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+console.dir(${1:obj});
+]]></content>
+	<tabTrigger>cd</tabTrigger>
+	<scope>source.js</scope>
+	<description>console.dir</description>
+</snippet>

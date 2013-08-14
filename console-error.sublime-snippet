@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+console.error(${1:obj});
+]]></content>
+	<tabTrigger>ce</tabTrigger>
+	<scope>source.js</scope>
+	<description>console.error</description>
+</snippet>
