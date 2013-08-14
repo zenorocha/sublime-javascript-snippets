@@ -135,18 +135,6 @@ ${1:document}.getElementsByClassName('${2:class}');
 ${1:document}.getElementsByTagName('${2:tag}');
 ```
 
-### [qs] querySelector
-
-```javascript
-${1:document}.querySelector('${2:selector}');
-```
-
-### [qsa] querySelectorAll
-
-```javascript
-${1:document}.querySelectorAll('${2:selector}');
-```
-
 ### [ga] getAttribute
 
 ```javascript
@@ -177,6 +165,18 @@ ${1:document}.innerHTML = '${2}';
 ${1:document}.textContent = '${2}';
 ```
 
+### [qs] querySelector
+
+```javascript
+${1:document}.querySelector('${2:selector}');
+```
+
+### [qsa] querySelectorAll
+
+```javascript
+${1:document}.querySelectorAll('${2:selector}');
+```
+
 ## Function
 
 ### [fu] function
@@ -197,10 +197,22 @@ ${1:ClassName}.prototype.${2:methodName} = function(${3:arguments}) {
 
 ## NodeJS
 
-### [re] require
+### [ase] assert.equal
 
 ```javascript
-require('${1:module}');
+assert.equal(${1:actual}, ${2:expected});
+```
+
+### [asd] assert.deepEqual
+
+```javascript
+assert.deepEqual(${1:actual}, ${2:expected});
+```
+
+### [asn] assert.notEqual
+
+```javascript
+assert.notEqual(${1:actual}, ${2:expected});
 ```
 
 ### [me] module.exports
@@ -213,6 +225,12 @@ module.exports = ${1}
 
 ```javascript
 process.exit(${1:code});
+```
+
+### [re] require
+
+```javascript
+require('${1:module}');
 ```
 
 ## Roadmap
@@ -229,7 +247,9 @@ process.exit(${1:code});
 
 ## History
 
-* v0.1.0 August 14, 2013
+* [v0.1.1](https://github.com/zenorocha/sublime-snippets-js/releases/tag/0.1.1) August 14, 2013
+	* Added NodeJS assert snippets
+* [v0.1.0](https://github.com/zenorocha/sublime-snippets-js/releases/tag/0.1.0) August 14, 2013
 	* Added console and function snippets
 	* Added DOM manipulation snippets
 	* Added NodeJS snippets
