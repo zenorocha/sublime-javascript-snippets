@@ -15,19 +15,19 @@ Waiting for approval.
 * Mac OS X
 
 	```
-git clone git://github.com/jprichardson/sublime-js-snippets.git ~/Library/Application Support/Sublime Text 2/Packages
+git clone git://github.com/zenorocha/sublime-snippets-js.git ~/Library/Application Support/Sublime Text 2/Packages
 	```
 
 * Linux
 
 	```
-git clone git://github.com/jprichardson/sublime-js-snippets.git ~/.config/sublime-text-2/Packages
+git clone git://github.com/zenorocha/sublime-snippets-js.git ~/.config/sublime-text-2/Packages
 	```
 
 * Windows
 
 	```
-git clone git://github.com/jprichardson/sublime-js-snippets.git %userprofile%\AppData\Roaming\Sublime Text 2\Packages
+git clone git://github.com/zenorocha/sublime-snippets-js.git %userprofile%\AppData\Roaming\Sublime Text 2\Packages
 	```
 
 ### Sublime Text 3
@@ -35,19 +35,19 @@ git clone git://github.com/jprichardson/sublime-js-snippets.git %userprofile%\Ap
 * Mac OS X
 
 	```
-git clone git://github.com/jprichardson/sublime-js-snippets.git ~/Library/Application Support/Sublime Text 3/Packages
+git clone git://github.com/zenorocha/sublime-snippets-js.git ~/Library/Application Support/Sublime Text 3/Packages
 	```
 
 * Linux
 
 	```
-git clone git://github.com/jprichardson/sublime-js-snippets.git ~/.config/sublime-text-3/Packages
+git clone git://github.com/zenorocha/sublime-snippets-js.git ~/.config/sublime-text-3/Packages
 	```
 
 * Windows
 
 	```
-git clone git://github.com/jprichardson/sublime-js-snippets.git %userprofile%\AppData\Roaming\Sublime Text 3\Packages
+git clone git://github.com/zenorocha/sublime-snippets-js.git %userprofile%\AppData\Roaming\Sublime Text 3\Packages
 	```
 
 ## Console
