@@ -93,7 +93,7 @@ ${1:document}.addEventListener('${2:event}', function(e) {
 ${1:document}.appendChild('${2}');
 ```
 
-### [ce] createElement
+### [cel] createElement
 
 ```javascript
 ${1:document}.createElement('${2:elem}');
@@ -265,6 +265,8 @@ require('${1:module}');
 
 ## History
 
+* [v0.1.3](https://github.com/zenorocha/sublime-snippets-js/releases/tag/0.1.3) August 14, 2013
+	* Fix duplicated [ce] shortcut
 * [v0.1.2](https://github.com/zenorocha/sublime-snippets-js/releases/tag/0.1.2) August 14, 2013
 	* Added timer function snippets
 * [v0.1.1](https://github.com/zenorocha/sublime-snippets-js/releases/tag/0.1.1) August 14, 2013
