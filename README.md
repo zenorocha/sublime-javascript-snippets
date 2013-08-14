@@ -6,7 +6,9 @@
 
 ### Package Control
 
-Search for **JavaScript/NodeJS Snippets**.
+Waiting for approval.
+
+<!-- Search for **JavaScript/NodeJS Snippets**. -->
 
 ### Sublime Text 2
 
