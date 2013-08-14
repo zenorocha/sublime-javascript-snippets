@@ -195,6 +195,24 @@ ${1:ClassName}.prototype.${2:methodName} = function(${3:arguments}) {
 }
 ```
 
+## Timer
+
+### [si] setInterval
+
+```javascript
+setInterval(function() {
+  ${2:// body...}
+}, ${1:delay});
+```
+
+### [st] setTimeout
+
+```javascript
+setTimeout(function() {
+  ${2:// body...}
+}, ${1:delay});
+```
+
 ## NodeJS
 
 ### [ase] assert.equal
@@ -247,6 +265,8 @@ require('${1:module}');
 
 ## History
 
+* [v0.1.2](https://github.com/zenorocha/sublime-snippets-js/releases/tag/0.1.2) August 14, 2013
+	* Added timer function snippets
 * [v0.1.1](https://github.com/zenorocha/sublime-snippets-js/releases/tag/0.1.1) August 14, 2013
 	* Added NodeJS assert snippets
 * [v0.1.0](https://github.com/zenorocha/sublime-snippets-js/releases/tag/0.1.0) August 14, 2013
