@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:document}.classList.toggle('${2:class}');
+]]></content>
+	<tabTrigger>ct</tabTrigger>
+	<scope>source.js</scope>
+	<description>classList.toggle</description>
+</snippet>

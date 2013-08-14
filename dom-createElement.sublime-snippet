@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:document}.createElement('${2:elem}');
+]]></content>
+	<tabTrigger>ce</tabTrigger>
+	<scope>source.js</scope>
+	<description>createElement</description>
+</snippet>

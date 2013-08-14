@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:document}.classList.remove('${2:class}');
+]]></content>
+	<tabTrigger>cr</tabTrigger>
+	<scope>source.js</scope>
+	<description>classList.remove</description>
+</snippet>

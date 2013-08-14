@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:document}.getElementsByClassName('${2:class}');
+]]></content>
+	<tabTrigger>gc</tabTrigger>
+	<scope>source.js</scope>
+	<description>getElementsByClassName</description>
+</snippet>

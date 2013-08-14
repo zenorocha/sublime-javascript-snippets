@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:document}.querySelectorAll('${2:selector}');
+]]></content>
+	<tabTrigger>qsa</tabTrigger>
+	<scope>source.js</scope>
+	<description>querySelectorAll</description>
+</snippet>

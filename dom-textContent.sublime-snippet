@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:document}.textContent = '${2}';
+]]></content>
+	<tabTrigger>tc</tabTrigger>
+	<scope>source.js</scope>
+	<description>textContent</description>
+</snippet>
