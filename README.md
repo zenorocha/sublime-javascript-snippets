@@ -4,51 +4,12 @@
 
 ## Install
 
-### Package Control
+To install through [Package Control](http://wbond.net/sublime_packages/package_control),
+search for **JavaScript & NodeJS Snippets**. If you still don't have Package Control in Sublime Text, [go get it](http://wbond.net/sublime_packages/package_control/installation).
+It's pure awesomeness.
 
-Waiting for approval.
-
-<!-- Search for **JavaScript/NodeJS Snippets**. -->
-
-### Sublime Text 2
-
-* Mac OS X
-
-	```
-git clone git://github.com/zenorocha/sublime-snippets-js.git ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/sublime-snippets-js
-	```
-
-* Linux
-
-	```
-git clone git://github.com/zenorocha/sublime-snippets-js.git ~/.config/sublime-text-2/Packages/sublime-snippets-js
-	```
-
-* Windows
-
-	```
-git clone git://github.com/zenorocha/sublime-snippets-js.git %userprofile%\AppData\Roaming\Sublime Text 2\Packages\sublime-snippets-js
-	```
-
-### Sublime Text 3
-
-* Mac OS X
-
-	```
-git clone git://github.com/zenorocha/sublime-snippets-js.git ~/Library/Application Support/Sublime Text 3/Packages/sublime-snippets-js
-	```
-
-* Linux
-
-	```
-git clone git://github.com/zenorocha/sublime-snippets-js.git ~/.config/sublime-text-3/Packages/sublime-snippets-js
-	```
-
-* Windows
-
-	```
-git clone git://github.com/zenorocha/sublime-snippets-js.git %userprofile%\AppData\Roaming\Sublime Text 3\Packages\sublime-snippets-js
-	```
+If you insist to not install it, you can download the package and
+put it manually inside your `Pacakages` directory. It should work but will not update automatically.
 
 ## Console
 
