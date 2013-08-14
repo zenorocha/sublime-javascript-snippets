@@ -58,6 +58,24 @@ console.log(${1:obj});
 console.warn(${1:obj});
 ```
 
+## Function
+
+### [fu] function
+
+```javascript
+function ${1:methodName} (${2:arguments}) {
+  ${4}
+}
+```
+
+### [pr] prototype
+
+```javascript
+${1:ClassName}.prototype.${2:methodName} = function(${3:arguments}) {
+  ${4}
+}
+```
+
 ## DOM
 
 ### [gi] getElementById
@@ -122,8 +140,6 @@ ${1:document}.innerHTML = '${2}';
 ${1:document}.textContent = '${2}';
 ```
 
-## Attribute
-
 ### [ga] getAttribute
 
 ```javascript
@@ -141,8 +157,6 @@ ${1:document}.setAttribute('${2:attr}', ${3:value});
 ```javascript
 ${1:document}.removeAttribute('${2:attr}');
 ```
-
-## Class
 
 ### [ca] classList.add
 
@@ -183,7 +197,7 @@ process.exit(${1:code});
 
 ## Roadmap
 
-* Add Node.js snippets
+* Add BDD snippets
 
 ## Contributing
 
@@ -196,7 +210,7 @@ process.exit(${1:code});
 ## History
 
 * v0.1.0 August 14, 2013
-	* Added console snippets
+	* Added console and function snippets
 	* Added DOM manipulation snippets
 	* Added NodeJS snippets
 
