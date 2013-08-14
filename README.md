@@ -1,6 +1,6 @@
 # JavaScript Snippets for Sublime Text
 
-Vanilla JavaScript snippets for Sublime Text 2 and 3.
+![Demo](http://zno.io/QopI/subime-snippet.gif)
 
 ## Install
 
@@ -199,6 +199,7 @@ ${1:ClassName}.prototype.${2:methodName} = function(${3:arguments}) {
 
 ```javascript
 require('${1:module}');
+```
 
 ### [me] module.exports
 
