@@ -65,7 +65,7 @@ console.warn(${1:obj});
 
 ```javascript
 ${1:document}.addEventListener('${2:event}', function(e) {
-	${3}
+	${3:// body...}
 });
 ```
 
@@ -165,7 +165,7 @@ ${1:document}.textContent = '${2}';
 
 ```javascript
 function ${1:methodName} (${2:arguments}) {
-  ${4}
+  ${3:// body...}
 }
 ```
 
@@ -173,7 +173,7 @@ function ${1:methodName} (${2:arguments}) {
 
 ```javascript
 ${1:ClassName}.prototype.${2:methodName} = function(${3:arguments}) {
-  ${4}
+  ${4:// body...}
 }
 ```
 
