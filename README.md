@@ -6,11 +6,27 @@ Vanilla JavaScript snippets for Sublime Text 2 and 3.
 
 ### Package Control
 
-TODO: Include project on Package Control
+Search for **JavaScript/NodeJS Snippets**.
 
 ### Sublime Text 2
 
-TODO: Include instructions for Sublime Text 2
+* Mac OS X
+
+	```
+git clone git://github.com/jprichardson/sublime-js-snippets.git ~/Library/Application Support/Sublime Text 2/Packages
+	```
+
+* Linux
+
+	```
+git clone git://github.com/jprichardson/sublime-js-snippets.git ~/.config/sublime-text-2/Packages
+	```
+
+* Windows
+
+	```
+git clone git://github.com/jprichardson/sublime-js-snippets.git %userprofile%\AppData\Roaming\Sublime Text 2\Packages
+	```
 
 ### Sublime Text 3
 
