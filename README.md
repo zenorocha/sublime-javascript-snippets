@@ -58,25 +58,46 @@ console.log(${1:obj});
 console.warn(${1:obj});
 ```
 
-## Function
-
-### [fu] function
-
-```javascript
-function ${1:methodName} (${2:arguments}) {
-  ${4}
-}
-```
-
-### [pr] prototype
-
-```javascript
-${1:ClassName}.prototype.${2:methodName} = function(${3:arguments}) {
-  ${4}
-}
-```
 
 ## DOM
+
+### [ae] addEventListener
+
+```javascript
+${1:document}.addEventListener('${2:event}', function(e) {
+	${3}
+});
+```
+
+### [ac] appendChild
+
+```javascript
+${1:document}.appendChild('${2}');
+```
+
+### [ce] createElement
+
+```javascript
+${1:document}.createElement('${2:elem}');
+```
+
+### [ca] classList.add
+
+```javascript
+${1:document}.classList.add('${2:class}');
+```
+
+### [ct] classList.toggle
+
+```javascript
+${1:document}.classList.toggle('${2:class}');
+```
+
+### [cr] classList.remove
+
+```javascript
+${1:document}.classList.remove('${2:class}');
+```
 
 ### [gi] getElementById
 
@@ -108,38 +129,6 @@ ${1:document}.querySelector('${2:selector}');
 ${1:document}.querySelectorAll('${2:selector}');
 ```
 
-### [ae] addEventListener
-
-```javascript
-${1:document}.addEventListener('${2:event}', function(e) {
-	${3}
-});
-```
-
-### [ac] appendChild
-
-```javascript
-${1:document}.appendChild('${2}');
-```
-
-### [ce] createElement
-
-```javascript
-${1:document}.createElement('${2:elem}');
-```
-
-### [ih] innerHTML
-
-```javascript
-${1:document}.innerHTML = '${2}';
-```
-
-### [tc] textContent
-
-```javascript
-${1:document}.textContent = '${2}';
-```
-
 ### [ga] getAttribute
 
 ```javascript
@@ -158,22 +147,34 @@ ${1:document}.setAttribute('${2:attr}', ${3:value});
 ${1:document}.removeAttribute('${2:attr}');
 ```
 
-### [ca] classList.add
+### [ih] innerHTML
 
 ```javascript
-${1:document}.classList.add('${2:class}');
+${1:document}.innerHTML = '${2}';
 ```
 
-### [ct] classList.toggle
+### [tc] textContent
 
 ```javascript
-${1:document}.classList.toggle('${2:class}');
+${1:document}.textContent = '${2}';
 ```
 
-### [cr] classList.remove
+## Function
+
+### [fu] function
 
 ```javascript
-${1:document}.classList.remove('${2:class}');
+function ${1:methodName} (${2:arguments}) {
+  ${4}
+}
+```
+
+### [pr] prototype
+
+```javascript
+${1:ClassName}.prototype.${2:methodName} = function(${3:arguments}) {
+  ${4}
+}
 ```
 
 ## NodeJS
