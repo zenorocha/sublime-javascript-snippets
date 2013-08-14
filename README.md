@@ -150,16 +150,35 @@ ${1:document}.removeAttribute('${2:attr}');
 ${1:document}.classList.add('${2:class}');
 ```
 
-### [ra] classList.toggle
+### [ct] classList.toggle
 
 ```javascript
 ${1:document}.classList.toggle('${2:class}');
 ```
 
-### [ra] classList.remove
+### [cr] classList.remove
 
 ```javascript
 ${1:document}.classList.remove('${2:class}');
+```
+
+## NodeJS
+
+### [re] require
+
+```javascript
+require('${1:module}');
+
+### [me] module.exports
+
+```javascript
+module.exports = ${1}
+```
+
+### [pe] process.exit
+
+```javascript
+process.exit(${1:code});
 ```
 
 ## Roadmap
@@ -176,8 +195,10 @@ ${1:document}.classList.remove('${2:class}');
 
 ## History
 
-* v0.1.0 May 23, 2013
-	* Added DOM manipulation and console snippets
+* v0.1.0 August 14, 2013
+	* Added console snippets
+	* Added DOM manipulation snippets
+	* Added NodeJS snippets
 
 ## License
 
