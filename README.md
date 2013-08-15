@@ -195,6 +195,14 @@ ${1:ClassName}.prototype.${2:methodName} = function(${3:arguments}) {
 }
 ```
 
+### [iffe] immediately-invoked function expression
+
+```javascript
+(function (window, document, undefined) {
+	${1:// body...}
+})(window, document);
+```
+
 ## Timer
 
 ### [si] setInterval
