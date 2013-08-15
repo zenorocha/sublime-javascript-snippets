@@ -195,7 +195,7 @@ ${1:ClassName}.prototype.${2:methodName} = function(${3:arguments}) {
 }
 ```
 
-### [iffe] immediately-invoked function expression
+### [iife] immediately-invoked function expression
 
 ```javascript
 (function (window, document, undefined) {
@@ -281,6 +281,8 @@ require('${1:module}');
 
 ## History
 
+* [v0.1.5](https://github.com/zenorocha/sublime-snippets-js/releases/tag/0.1.5) August 15, 2013
+	* Added `forEach`, `forEachCall`, `for in`, `iife` and `use strict` snippets
 * [v0.1.4](https://github.com/zenorocha/sublime-snippets-js/releases/tag/0.1.4) August 15, 2013
 	* Added `createDocumentFragment` and `removeChild` snippets
 	* Renamed `appendChild` snippet filename
