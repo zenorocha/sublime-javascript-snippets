@@ -149,6 +149,24 @@ ${1:document}.querySelector('${2:selector}');
 ${1:document}.querySelectorAll('${2:selector}');
 ```
 
+## Loop
+
+### [fe] forEach
+
+```javascript
+${1:myArray}.forEach(function (${2:elem}) {
+	${3:// body...}
+});
+```
+
+### [fec] forEachCall
+
+```javascript
+[].forEach.call(document.querySelectorAll(${1:selector}), function (${2:elem}) {
+	${3:// body...}
+});
+```
+
 ## Function
 
 ### [fu] function
