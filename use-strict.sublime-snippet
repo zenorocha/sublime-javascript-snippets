@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+'use strict';
+]]></content>
+	<tabTrigger>us</tabTrigger>
+	<scope>source.js</scope>
+	<description>use strict</description>
+</snippet>

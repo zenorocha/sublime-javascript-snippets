@@ -259,6 +259,14 @@ process.exit(${1:code});
 require('${1:module}');
 ```
 
+## Misc
+
+### [us] use strict
+
+```javascript
+'use strict';
+```
+
 ## Roadmap
 
 * Add BDD snippets
