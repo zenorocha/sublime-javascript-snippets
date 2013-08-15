@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
-${1:myArray}.forEach(function (elem) {
-	${2:// body...}
+${1:myArray}.forEach(function (${2:elem}) {
+	${3:// body...}
 });
 ]]></content>
 	<tabTrigger>fe</tabTrigger>
