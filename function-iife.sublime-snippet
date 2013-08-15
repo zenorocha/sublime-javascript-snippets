@@ -1,11 +1,10 @@
 <snippet>
 	<content><![CDATA[
 (function (window, document, undefined) {
-	'use strict';
 	${1:// body...}
 })(window, document);
 ]]></content>
 	<tabTrigger>iife</tabTrigger>
 	<scope>source.js</scope>
-	<description>function</description>
+	<description>immediately-invoked function expression</description>
 </snippet>
