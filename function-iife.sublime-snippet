@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+(function (window, document, undefined) {
+	${1:// body...}
+})(window, document);
+]]></content>
+	<tabTrigger>iife</tabTrigger>
+	<scope>source.js</scope>
+	<description>function</description>
+</snippet>
