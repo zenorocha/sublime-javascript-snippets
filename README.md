@@ -37,7 +37,6 @@ console.log(${1:obj});
 console.warn(${1:obj});
 ```
 
-
 ## DOM
 
 ### [ae] addEventListener
@@ -52,6 +51,12 @@ ${1:document}.addEventListener('${2:event}', function(e) {
 
 ```javascript
 ${1:document}.appendChild('${2}');
+```
+
+### [rc] removeChild
+
+```javascript
+${1:document}.removeChild('${2}');
 ```
 
 ### [cel] createElement
@@ -232,8 +237,11 @@ require('${1:module}');
 
 ## History
 
+* [v0.1.4](https://github.com/zenorocha/sublime-snippets-js/releases/tag/0.1.4) August 15, 2013
+	* Added `createDocumentFragment` and `removeChild` snippets
+	* Renamed `appendChild` snippet filename
 * [v0.1.3](https://github.com/zenorocha/sublime-snippets-js/releases/tag/0.1.3) August 14, 2013
-	* Fix duplicated [ce] shortcut
+	* Fixed duplicated [ce] shortcut
 * [v0.1.2](https://github.com/zenorocha/sublime-snippets-js/releases/tag/0.1.2) August 14, 2013
 	* Added timer function snippets
 * [v0.1.1](https://github.com/zenorocha/sublime-snippets-js/releases/tag/0.1.1) August 14, 2013
