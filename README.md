@@ -60,6 +60,12 @@ ${1:document}.appendChild('${2}');
 ${1:document}.createElement('${2:elem}');
 ```
 
+### [cdf] createDocumentFragment
+
+```javascript
+${1:document}.createDocumentFragment();
+```
+
 ### [ca] classList.add
 
 ```javascript
