@@ -258,6 +258,30 @@ process.exit(${1:code});
 ```javascript
 require('${1:module}');
 ```
+## BDD
+
+### [desc] describe
+
+```javascript
+describe('${1:description}', function () {
+  ${2:// body...}
+})
+```
+### [ita] it asynchronous
+
+```javascript
+it('${1:description}', function (done) {
+  ${2:// body...}
+})
+```
+
+### [its] it synchronous
+
+```javascript
+it('${1:description}', function () {
+  ${2:// body...}
+})
+```
 
 ## Misc
 
