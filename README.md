@@ -265,14 +265,14 @@ require('${1:module}');
 ```javascript
 describe('${1:description}', function () {
   ${2:// body...}
-})
+});
 ```
 ### [ita] it asynchronous
 
 ```javascript
 it('${1:description}', function (done) {
   ${2:// body...}
-})
+});
 ```
 
 ### [its] it synchronous
@@ -280,7 +280,7 @@ it('${1:description}', function (done) {
 ```javascript
 it('${1:description}', function () {
   ${2:// body...}
-})
+});
 ```
 
 ## Misc
@@ -290,10 +290,6 @@ it('${1:description}', function () {
 ```javascript
 'use strict';
 ```
-
-## Roadmap
-
-* Add BDD snippets
 
 ## Contributing
 
@@ -305,6 +301,8 @@ it('${1:description}', function () {
 
 ## History
 
+* [v0.1.6](https://github.com/zenorocha/sublime-snippets-js/releases/tag/0.1.6) August 16, 2013
+	* Added BDD snippets
 * [v0.1.5](https://github.com/zenorocha/sublime-snippets-js/releases/tag/0.1.5) August 15, 2013
 	* Added `forEach`, `forEachCall`, `for in`, `iife` and `use strict` snippets
 * [v0.1.4](https://github.com/zenorocha/sublime-snippets-js/releases/tag/0.1.4) August 15, 2013

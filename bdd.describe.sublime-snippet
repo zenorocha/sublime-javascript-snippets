@@ -2,7 +2,7 @@
   <content><![CDATA[
 describe('${1:description}', function () {
   ${2:// body...}
-})
+});
 ]]></content>
   <tabTrigger>desc</tabTrigger>
   <scope>source.js</scope>

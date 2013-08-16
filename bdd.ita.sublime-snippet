@@ -2,7 +2,7 @@
   <content><![CDATA[
 it('${1:description}', function (done) {
   ${2:// body...}
-})
+});
 ]]></content>
   <tabTrigger>ita</tabTrigger>
   <scope>source.js</scope>
