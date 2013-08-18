@@ -183,7 +183,7 @@ for (var ${1:prop} in ${1:obj}) {
 
 ```javascript
 function ${1:methodName} (${2:arguments}) {
-  ${3:// body...}
+	${3:// body...}
 }
 ```
 
@@ -191,7 +191,7 @@ function ${1:methodName} (${2:arguments}) {
 
 ```javascript
 ${1:ClassName}.prototype.${2:methodName} = function(${3:arguments}) {
-  ${4:// body...}
+	${4:// body...}
 }
 ```
 
@@ -209,7 +209,7 @@ ${1:ClassName}.prototype.${2:methodName} = function(${3:arguments}) {
 
 ```javascript
 setInterval(function() {
-  ${2:// body...}
+	${2:// body...}
 }, ${1:delay});
 ```
 
@@ -217,7 +217,7 @@ setInterval(function() {
 
 ```javascript
 setTimeout(function() {
-  ${2:// body...}
+	${2:// body...}
 }, ${1:delay});
 ```
 
