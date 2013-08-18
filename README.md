@@ -301,6 +301,8 @@ it('${1:description}', function () {
 
 ## History
 
+* [v0.1.7](https://github.com/zenorocha/sublime-snippets-js/releases/tag/0.1.7) August 18, 2013
+	* Fixed indentation
 * [v0.1.6](https://github.com/zenorocha/sublime-snippets-js/releases/tag/0.1.6) August 16, 2013
 	* Added BDD snippets
 * [v0.1.5](https://github.com/zenorocha/sublime-snippets-js/releases/tag/0.1.5) August 15, 2013
