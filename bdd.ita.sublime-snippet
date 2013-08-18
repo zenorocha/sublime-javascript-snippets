@@ -1,10 +1,10 @@
 <snippet>
-  <content><![CDATA[
+	<content><![CDATA[
 it('${1:description}', function (done) {
-  ${2:// body...}
+	${2:// body...}
 });
 ]]></content>
-  <tabTrigger>ita</tabTrigger>
-  <scope>source.js</scope>
-  <description>BDD it asynchronous</description>
+	<tabTrigger>ita</tabTrigger>
+	<scope>source.js</scope>
+	<description>BDD it asynchronous</description>
 </snippet>

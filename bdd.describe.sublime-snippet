@@ -1,10 +1,10 @@
 <snippet>
-  <content><![CDATA[
+	<content><![CDATA[
 describe('${1:description}', function () {
-  ${2:// body...}
+	${2:// body...}
 });
 ]]></content>
-  <tabTrigger>desc</tabTrigger>
-  <scope>source.js</scope>
-  <description>BDD describe</description>
+	<tabTrigger>desc</tabTrigger>
+	<scope>source.js</scope>
+	<description>BDD describe</description>
 </snippet>
