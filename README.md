@@ -203,6 +203,12 @@ ${1:ClassName}.prototype.${2:methodName} = function(${3:arguments}) {
 })(window, document);
 ```
 
+### [call] function call
+
+```javascript
+${1:methodName}.call(${2:context}, ${3:arguments})
+```
+
 ## Timer
 
 ### [si] setInterval
