@@ -307,6 +307,8 @@ it('${1:description}', function () {
 
 ## History
 
+* [v0.1.9](https://github.com/zenorocha/sublime-snippets-js/releases/tag/0.1.9) September 3, 2013
+	* Fixed tab key sequence
 * [v0.1.8](https://github.com/zenorocha/sublime-snippets-js/releases/tag/0.1.8) August 27, 2013
 	* Added `function call`
 * [v0.1.7](https://github.com/zenorocha/sublime-snippets-js/releases/tag/0.1.7) August 18, 2013
