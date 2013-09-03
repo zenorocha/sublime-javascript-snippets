@@ -187,6 +187,14 @@ function ${1:methodName} (${2:arguments}) {
 }
 ```
 
+### [fn] anonymous function
+
+```javascript
+function (${1:arguments}) {
+	${0:// body...}
+}
+```
+
 ### [pr] prototype
 
 ```javascript
