@@ -43,7 +43,7 @@ console.warn(${1:obj});
 
 ```javascript
 ${1:document}.addEventListener('${2:event}', function(e) {
-	${3:// body...}
+	${0:// body...}
 });
 ```
 
@@ -155,7 +155,7 @@ ${1:document}.querySelectorAll('${2:selector}');
 
 ```javascript
 ${1:myArray}.forEach(function (${2:elem}) {
-	${3:// body...}
+	${0:// body...}
 });
 ```
 
@@ -163,7 +163,7 @@ ${1:myArray}.forEach(function (${2:elem}) {
 
 ```javascript
 [].forEach.call(document.querySelectorAll(${1:selector}), function (${2:elem}) {
-	${3:// body...}
+	${0:// body...}
 });
 ```
 
@@ -172,7 +172,7 @@ ${1:myArray}.forEach(function (${2:elem}) {
 ```javascript
 for (var ${1:prop} in ${2:obj}) {
   if (${2:obj}.hasOwnProperty(${1:prop})) {
-    ${3:// body...}
+    ${0:// body...}
   }
 }
 ```
@@ -183,7 +183,7 @@ for (var ${1:prop} in ${2:obj}) {
 
 ```javascript
 function ${1:methodName} (${2:arguments}) {
-	${3:// body...}
+	${0:// body...}
 }
 ```
 
@@ -191,7 +191,7 @@ function ${1:methodName} (${2:arguments}) {
 
 ```javascript
 ${1:ClassName}.prototype.${2:methodName} = function(${3:arguments}) {
-	${4:// body...}
+	${0:// body...}
 }
 ```
 
@@ -199,7 +199,7 @@ ${1:ClassName}.prototype.${2:methodName} = function(${3:arguments}) {
 
 ```javascript
 (function (window, document, undefined) {
-	${1:// body...}
+	${0:// body...}
 })(window, document);
 ```
 
@@ -215,7 +215,7 @@ ${1:methodName}.call(${2:context}, ${3:arguments})
 
 ```javascript
 setInterval(function() {
-	${2:// body...}
+	${0:// body...}
 }, ${1:delay});
 ```
 
@@ -223,7 +223,7 @@ setInterval(function() {
 
 ```javascript
 setTimeout(function() {
-	${2:// body...}
+	${0:// body...}
 }, ${1:delay});
 ```
 
@@ -270,14 +270,14 @@ require('${1:module}');
 
 ```javascript
 describe('${1:description}', function () {
-  ${2:// body...}
+  ${0:// body...}
 });
 ```
 ### [ita] it asynchronous
 
 ```javascript
 it('${1:description}', function (done) {
-  ${2:// body...}
+  ${0:// body...}
 });
 ```
 
@@ -285,7 +285,7 @@ it('${1:description}', function (done) {
 
 ```javascript
 it('${1:description}', function () {
-  ${2:// body...}
+  ${0:// body...}
 });
 ```
 

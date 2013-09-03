@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
 [].forEach.call(document.querySelectorAll(${1:selector}), function (${2:elem}) {
-	${3:// body...}
+	${0:// body...}
 });
 ]]></content>
 	<tabTrigger>fec</tabTrigger>
