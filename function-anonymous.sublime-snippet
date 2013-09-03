@@ -4,7 +4,7 @@ function (${1:arguments}) {
 	${0:// body...}
 }
 ]]></content>
-	<tabTrigger>fn</tabTrigger>
+	<tabTrigger>afn</tabTrigger>
 	<scope>source.js</scope>
 	<description>anonymous function</description>
 </snippet>

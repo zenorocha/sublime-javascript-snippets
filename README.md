@@ -179,7 +179,7 @@ for (var ${1:prop} in ${2:obj}) {
 
 ## Function
 
-### [fu] function
+### [fn] function
 
 ```javascript
 function ${1:methodName} (${2:arguments}) {
@@ -187,7 +187,7 @@ function ${1:methodName} (${2:arguments}) {
 }
 ```
 
-### [fn] anonymous function
+### [afn] anonymous function
 
 ```javascript
 function (${1:arguments}) {
