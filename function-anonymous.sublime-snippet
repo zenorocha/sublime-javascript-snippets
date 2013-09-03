@@ -6,5 +6,5 @@ function (${1:arguments}) {
 ]]></content>
 	<tabTrigger>fn</tabTrigger>
 	<scope>source.js</scope>
-	<description>function</description>
+	<description>anonymous function</description>
 </snippet>
