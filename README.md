@@ -315,6 +315,8 @@ it('${1:description}', function () {
 
 ## History
 
+* [v0.2.2](https://github.com/zenorocha/sublime-snippets-js/releases/tag/0.2.2) September 3, 2013
+	* Removed extra space from `anonymous function` snippet
 * [v0.2.1](https://github.com/zenorocha/sublime-snippets-js/releases/tag/0.2.1) September 3, 2013
 	* Changed tab trigger for `function` and `anonymous function` snippets
 * [v0.2.0](https://github.com/zenorocha/sublime-snippets-js/releases/tag/0.2.0) September 3, 2013
