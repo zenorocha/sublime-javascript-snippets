@@ -190,7 +190,7 @@ function ${1:methodName} (${2:arguments}) {
 ### [afn] anonymous function
 
 ```javascript
-function (${1:arguments}) {
+function(${1:arguments}) {
 	${0:// body...}
 }
 ```
