@@ -315,35 +315,7 @@ it('${1:description}', function () {
 
 ## History
 
-* [v0.2.2](https://github.com/zenorocha/sublime-snippets-js/releases/tag/0.2.2) September 3, 2013
-	* Removed extra space from `anonymous function` snippet
-* [v0.2.1](https://github.com/zenorocha/sublime-snippets-js/releases/tag/0.2.1) September 3, 2013
-	* Changed tab trigger for `function` and `anonymous function` snippets
-* [v0.2.0](https://github.com/zenorocha/sublime-snippets-js/releases/tag/0.2.0) September 3, 2013
-	* Added `anonymous function` snippet
-* [v0.1.9](https://github.com/zenorocha/sublime-snippets-js/releases/tag/0.1.9) September 3, 2013
-	* Fixed tab key sequence
-* [v0.1.8](https://github.com/zenorocha/sublime-snippets-js/releases/tag/0.1.8) August 27, 2013
-	* Added `function call`
-* [v0.1.7](https://github.com/zenorocha/sublime-snippets-js/releases/tag/0.1.7) August 18, 2013
-	* Fixed indentation
-* [v0.1.6](https://github.com/zenorocha/sublime-snippets-js/releases/tag/0.1.6) August 16, 2013
-	* Added BDD snippets
-* [v0.1.5](https://github.com/zenorocha/sublime-snippets-js/releases/tag/0.1.5) August 15, 2013
-	* Added `forEach`, `forEachCall`, `for in`, `iife` and `use strict` snippets
-* [v0.1.4](https://github.com/zenorocha/sublime-snippets-js/releases/tag/0.1.4) August 15, 2013
-	* Added `createDocumentFragment` and `removeChild` snippets
-	* Renamed `appendChild` snippet filename
-* [v0.1.3](https://github.com/zenorocha/sublime-snippets-js/releases/tag/0.1.3) August 14, 2013
-	* Fixed duplicated [ce] shortcut
-* [v0.1.2](https://github.com/zenorocha/sublime-snippets-js/releases/tag/0.1.2) August 14, 2013
-	* Added timer function snippets
-* [v0.1.1](https://github.com/zenorocha/sublime-snippets-js/releases/tag/0.1.1) August 14, 2013
-	* Added NodeJS assert snippets
-* [v0.1.0](https://github.com/zenorocha/sublime-snippets-js/releases/tag/0.1.0) August 14, 2013
-	* Added console and function snippets
-	* Added DOM manipulation snippets
-	* Added NodeJS snippets
+Check [Release](https://github.com/zenorocha/sublime-snippets-js/releases) list.
 
 ## License
 
