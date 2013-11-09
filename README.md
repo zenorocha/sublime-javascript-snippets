@@ -1,4 +1,4 @@
-# JavaScript Snippets for Sublime Text
+# JavaScript Snippets for Sublime [![Build Status](https://secure.travis-ci.org/zenorocha/sublime-snippets-js.png?branch=master)](https://travis-ci.org/zenorocha/sublime-snippets-js)
 
 ![Demo](http://zno.io/QopI/subime-snippet.gif)
 

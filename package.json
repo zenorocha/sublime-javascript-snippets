@@ -6,6 +6,10 @@
 	},
 	"devDependencies": {
 		"grunt": "0.4.1",
+		"grunt-cli": "0.1.10",
 		"grunt-lintspaces": "0.2.203"
+	},
+	"scripts": {
+		"test": "grunt"
 	}
 }
