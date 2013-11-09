@@ -171,9 +171,9 @@ ${1:myArray}.forEach(function (${2:elem}) {
 
 ```javascript
 for (var ${1:prop} in ${2:obj}) {
-  if (${2:obj}.hasOwnProperty(${1:prop})) {
-    ${0:// body...}
-  }
+	if (${2:obj}.hasOwnProperty(${1:prop})) {
+		${0:// body...}
+	}
 }
 ```
 
@@ -278,14 +278,14 @@ require('${1:module}');
 
 ```javascript
 describe('${1:description}', function () {
-  ${0:// body...}
+	${0:// body...}
 });
 ```
 ### [ita] it asynchronous
 
 ```javascript
 it('${1:description}', function (done) {
-  ${0:// body...}
+	${0:// body...}
 });
 ```
 
@@ -293,7 +293,7 @@ it('${1:description}', function (done) {
 
 ```javascript
 it('${1:description}', function () {
-  ${0:// body...}
+	${0:// body...}
 });
 ```
 

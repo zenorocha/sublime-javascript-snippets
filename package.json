@@ -1,0 +1,11 @@
+{
+	"name": "sublime-snippets-js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/zenorocha/sublime-snippets-js.git"
+	},
+	"devDependencies": {
+		"grunt": "0.4.1",
+		"grunt-lintspaces": "0.2.203"
+	}
+}
