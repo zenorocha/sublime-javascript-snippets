@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-setTimeout(function() {
+setTimeout(function () {
 	${0:// body...}
 }, ${1:delay});
 ]]></content>
