@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+prompt(${'1:obj'});
+]]></content>
+	<tabTrigger>pm</tabTrigger>
+	<scope>source.js</scope>
+	<description>prompt</description>
+</snippet>
