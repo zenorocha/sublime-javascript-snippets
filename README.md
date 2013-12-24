@@ -148,6 +148,11 @@ ${1:document}.querySelector('${2:selector}');
 ```javascript
 ${1:document}.querySelectorAll('${2:selector}');
 ```
+### [pm] propmt
+
+```javascript
+prompt(${1:'obj'});
+```
 
 ## Loop
 
