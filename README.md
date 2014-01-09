@@ -148,11 +148,6 @@ ${1:document}.querySelector('${2:selector}');
 ```javascript
 ${1:document}.querySelectorAll('${2:selector}');
 ```
-### [pm] prompt
-
-```javascript
-prompt(${1:'obj'});
-```
 
 ## Loop
 
@@ -308,6 +303,12 @@ it('${1:description}', function () {
 
 ```javascript
 'use strict';
+```
+
+### [pm] prompt
+
+```javascript
+prompt(${1:'obj'});
 ```
 
 ## Contributing
