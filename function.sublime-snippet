@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-function ${1:methodName} (${2:arguments}) {
+function ${1:methodName}(${2:arguments}) {
 	${0:// body...}
 }
 ]]></content>
