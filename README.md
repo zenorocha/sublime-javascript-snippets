@@ -308,7 +308,7 @@ it('${1:description}', function () {
 ### [pm] prompt
 
 ```javascript
-prompt(${1:'obj'});
+prompt('${1:msg}');
 ```
 
 ## Contributing

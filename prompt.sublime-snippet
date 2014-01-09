@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-prompt(${'1:obj'});
+prompt('${1:msg}');
 ]]></content>
 	<tabTrigger>pm</tabTrigger>
 	<scope>source.js</scope>
