@@ -18,10 +18,7 @@ module.exports = function(grunt) {
 			all: {
 				src: ['*'],
 				options: {
-					newline: false,
-					trailingspaces: true,
-					indentation: 'tabs',
-					spaces: 4
+					editorconfig: '.editorconfig'
 				}
 			}
 		}
