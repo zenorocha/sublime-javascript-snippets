@@ -158,14 +158,6 @@ ${1:myArray}.forEach(function (${2:elem}) {
 });
 ```
 
-### [fec] forEachCall
-
-```javascript
-[].forEach.call(document.querySelectorAll(${1:selector}), function (${2:elem}) {
-	${0:// body...}
-});
-```
-
 ### [fi] for in
 
 ```javascript
