@@ -304,6 +304,12 @@ it('${1:description}', function () {
 'use strict';
 ```
 
+### [al] alert
+
+```javascript
+alert('${1:msg}');
+```
+
 ### [pm] prompt
 
 ```javascript
