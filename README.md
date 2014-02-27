@@ -216,6 +216,12 @@ ${1:ClassName}.prototype.${2:methodName} = function(${3:arguments}) {
 ${1:methodName}.call(${2:context}, ${3:arguments})
 ```
 
+### [apply] function apply
+
+```javascript
+${1:methodName}.apply(${2:context}, [${3:arguments}])
+```
+
 ## Timer
 
 ### [si] setInterval
