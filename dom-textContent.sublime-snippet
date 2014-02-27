@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-${1:document}.textContent = '${2}';
+${1:document}.textContent = '${2:elem}';
 ]]></content>
 	<tabTrigger>tc</tabTrigger>
 	<scope>source.js</scope>
