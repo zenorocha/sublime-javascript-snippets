@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-(function (window, document, undefined) {
+(function(window, document, undefined) {
 	${0:// body...}
 })(window, document);
 ]]></content>
