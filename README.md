@@ -42,7 +42,7 @@ console.warn(${1:obj});
 
 ```javascript
 ${1:document}.addEventListener('${2:event}', function(e) {
-	${0:// body...}
+	${3}
 });
 ```
 
@@ -154,16 +154,16 @@ ${1:document}.querySelectorAll('${2:selector}');
 
 ```javascript
 ${1:myArray}.forEach(function(${2:elem}) {
-	${0:// body...}
+	${3}
 });
 ```
 
 ### [fi] for in
 
 ```javascript
-for (var ${1:prop} in ${2:obj}) {
+for (${1:prop} in ${2:obj}) {
 	if (${2:obj}.hasOwnProperty(${1:prop})) {
-		${0:// body...}
+		${3}
 	}
 }
 ```
@@ -173,8 +173,8 @@ for (var ${1:prop} in ${2:obj}) {
 ### [fn] function
 
 ```javascript
-function ${1:methodName} (${2:arguments}) {
-	${0:// body...}
+function ${1:methodName}(${2:arguments}) {
+	${3}
 }
 ```
 
@@ -182,7 +182,7 @@ function ${1:methodName} (${2:arguments}) {
 
 ```javascript
 function(${1:arguments}) {
-	${0:// body...}
+	${2}
 }
 ```
 
@@ -190,7 +190,7 @@ function(${1:arguments}) {
 
 ```javascript
 ${1:ClassName}.prototype.${2:methodName} = function(${3:arguments}) {
-	${0:// body...}
+	${4}
 }
 ```
 
@@ -198,7 +198,7 @@ ${1:ClassName}.prototype.${2:methodName} = function(${3:arguments}) {
 
 ```javascript
 (function(window, document, undefined) {
-	${0:// body...}
+	${1}
 })(window, document);
 ```
 
@@ -220,7 +220,7 @@ ${1:methodName}.apply(${2:context}, [${3:arguments}])
 
 ```javascript
 setInterval(function() {
-	${0:// body...}
+	${2}
 }, ${1:delay});
 ```
 
@@ -228,7 +228,7 @@ setInterval(function() {
 
 ```javascript
 setTimeout(function() {
-	${0:// body...}
+	${2}
 }, ${1:delay});
 ```
 
@@ -275,14 +275,14 @@ require('${1:module}');
 
 ```javascript
 describe('${1:description}', function() {
-	${0:// body...}
+	${2}
 });
 ```
 ### [ita] it asynchronous
 
 ```javascript
 it('${1:description}', function(done) {
-	${0:// body...}
+	${2}
 });
 ```
 
@@ -290,7 +290,7 @@ it('${1:description}', function(done) {
 
 ```javascript
 it('${1:description}', function() {
-	${0:// body...}
+	${2}
 });
 ```
 

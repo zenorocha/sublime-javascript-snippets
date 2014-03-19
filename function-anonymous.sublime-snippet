@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
 function(${1:arguments}) {
-	${0:// body...}
+	${2}
 }
 ]]></content>
 	<tabTrigger>afn</tabTrigger>

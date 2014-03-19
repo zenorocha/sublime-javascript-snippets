@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
 it('${1:description}', function() {
-	${0:// body...}
+	${2}
 });
 ]]></content>
 	<tabTrigger>its</tabTrigger>

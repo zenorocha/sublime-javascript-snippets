@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
 setInterval(function() {
-	${0:// body...}
+	${2}
 }, ${1:delay});
 ]]></content>
 	<tabTrigger>si</tabTrigger>

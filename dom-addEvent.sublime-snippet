@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
 ${1:document}.addEventListener('${2:event}', function(e) {
-	${0:// body...}
+	${3}
 });
 ]]></content>
 	<tabTrigger>ae</tabTrigger>
