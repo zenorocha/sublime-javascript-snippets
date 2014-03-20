@@ -1,4 +1,4 @@
-# JavaScript Snippets for Sublime [![Build Status](https://secure.travis-ci.org/zenorocha/sublime-snippets-js.png?branch=master)](https://travis-ci.org/zenorocha/sublime-snippets-js)
+# JavaScript Snippets for Sublime [![Build Status](https://secure.travis-ci.org/zenorocha/sublime-javascript-snippets.png?branch=master)](https://travis-ci.org/zenorocha/sublime-javascript-snippets)
 
 ![Demo](http://zno.io/QopI/subime-snippet.gif)
 
@@ -332,7 +332,7 @@ prompt('${1:msg}');
 
 ## History
 
-Check [Release](https://github.com/zenorocha/sublime-snippets-js/releases) list.
+Check [Release](https://github.com/zenorocha/sublime-javascript-snippets/releases) list.
 
 ## License
 
