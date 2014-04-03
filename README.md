@@ -1,4 +1,4 @@
-# JavaScript Snippets for Sublime [![Build Status](https://secure.travis-ci.org/zenorocha/sublime-javascript-snippets.png?branch=master)](https://travis-ci.org/zenorocha/sublime-javascript-snippets)
+# JavaScript Snippets for Sublime [![Build Status](https://secure.travis-ci.org/zenorocha/sublime-javascript-snippets.svg?branch=master)](https://travis-ci.org/zenorocha/sublime-javascript-snippets)
 
 ![Demo](http://zno.io/QopI/subime-snippet.gif)
 
