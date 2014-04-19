@@ -8,7 +8,7 @@ To install through [Package Control](http://wbond.net/sublime_packages/package_c
 search for **JavaScript & NodeJS Snippets**. If you still don't have Package Control in Sublime Text, [go get it](http://wbond.net/sublime_packages/package_control/installation).
 It's pure awesomeness.
 
-If you insist to not install it, you can download the package and put it manually inside your `Packages` directory. It should work but will not update automatically.
+If you prefer to install it manually, you can download the package and put it inside your `Packages` directory. It should work but will not update automatically.
 
 ## Console
 
