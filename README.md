@@ -332,7 +332,7 @@ prompt('${1:msg}');
 
 ## History
 
-Check [Release](https://github.com/zenorocha/sublime-javascript-snippets/releases) list.
+Check [Releases](https://github.com/zenorocha/sublime-javascript-snippets/releases) for detailed changelog.
 
 ## License
 
