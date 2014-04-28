@@ -302,6 +302,12 @@ it('${1:description}', function() {
 });
 ```
 
+### [itp] it pending
+
+```javascript
+it('${1:description}');
+```
+
 ## Misc
 
 ### [us] use strict
