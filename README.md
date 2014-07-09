@@ -1,6 +1,6 @@
 # JavaScript Snippets for Sublime [![Build Status](https://secure.travis-ci.org/zenorocha/sublime-javascript-snippets.svg?branch=master)](https://travis-ci.org/zenorocha/sublime-javascript-snippets)
 
-![Demo](http://zno.io/QopI/subime-snippet.gif)
+![Demo](https://cloud.githubusercontent.com/assets/398893/3528110/d55390be-078b-11e4-8587-db23277b50af.gif)
 
 ## Install
 
