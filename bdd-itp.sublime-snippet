@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+it('${1:description}');
+]]></content>
+	<tabTrigger>itp</tabTrigger>
+	<scope>source.js</scope>
+	<description>BDD it pending</description>
+</snippet>
