@@ -328,6 +328,12 @@ it('${1:description}');
 alert('${1:msg}');
 ```
 
+### [co] confirm
+
+```javascript
+confirm('${1:msg}');
+```
+
 ### [pm] prompt
 
 ```javascript
