@@ -36,6 +36,12 @@ console.log(${1:obj});
 console.warn(${1:obj});
 ```
 
+### [de] debugger
+
+```javascript
+debugger;
+```
+
 ## DOM
 
 ### [ae] addEventListener
