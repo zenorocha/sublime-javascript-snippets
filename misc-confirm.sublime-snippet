@@ -3,6 +3,6 @@
 confirm('${1:msg}');
 ]]></content>
 	<tabTrigger>co</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.js, source.jsx, source.ts</scope>
 	<description>confirm</description>
 </snippet>

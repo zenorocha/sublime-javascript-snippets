@@ -3,6 +3,6 @@
 ${1:document}.getElementsByClassName('${2:class}');
 ]]></content>
 	<tabTrigger>gc</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.js, source.jsx, source.ts</scope>
 	<description>getElementsByClassName</description>
 </snippet>

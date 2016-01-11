@@ -5,6 +5,6 @@ setTimeout(function() {
 }, ${1:delay});
 ]]></content>
 	<tabTrigger>st</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.js, source.jsx, source.ts</scope>
 	<description>setTimeout</description>
 </snippet>

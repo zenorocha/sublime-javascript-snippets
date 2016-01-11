@@ -3,6 +3,6 @@
 module.exports = ${1:name};
 ]]></content>
 	<tabTrigger>me</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.js, source.jsx, source.ts</scope>
 	<description>module.exports</description>
 </snippet>

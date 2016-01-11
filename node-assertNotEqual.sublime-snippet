@@ -3,6 +3,6 @@
 assert.notEqual(${1:actual}, ${2:expected});
 ]]></content>
 	<tabTrigger>asn</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.js, source.jsx, source.ts</scope>
 	<description>assert.notEqual</description>
 </snippet>

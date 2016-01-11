@@ -3,6 +3,6 @@
 ${1:document}.removeChild('${2:elem}');
 ]]></content>
 	<tabTrigger>rc</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.js, source.jsx, source.ts</scope>
 	<description>removeChild</description>
 </snippet>

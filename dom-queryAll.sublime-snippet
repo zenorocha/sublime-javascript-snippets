@@ -3,6 +3,6 @@
 ${1:document}.querySelectorAll('${2:selector}');
 ]]></content>
 	<tabTrigger>qsa</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.js, source.jsx, source.ts</scope>
 	<description>querySelectorAll</description>
 </snippet>

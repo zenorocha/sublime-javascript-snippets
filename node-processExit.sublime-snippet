@@ -3,6 +3,6 @@
 process.exit(${1:code});
 ]]></content>
 	<tabTrigger>pe</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.js, source.jsx, source.ts</scope>
 	<description>process.exit</description>
 </snippet>

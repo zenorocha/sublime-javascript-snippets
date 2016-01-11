@@ -5,6 +5,6 @@ setInterval(function() {
 }, ${1:delay});
 ]]></content>
 	<tabTrigger>si</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.js, source.jsx, source.ts</scope>
 	<description>setInterval</description>
 </snippet>

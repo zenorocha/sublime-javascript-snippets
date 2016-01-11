@@ -3,6 +3,6 @@
 console.info(${1:obj});
 ]]></content>
 	<tabTrigger>ci</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.js, source.jsx, source.ts</scope>
 	<description>console.info</description>
 </snippet>

@@ -3,6 +3,6 @@
 JSON.stringify(${1:obj});
 ]]></content>
 	<tabTrigger>js</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.js, source.jsx, source.ts</scope>
 	<description>JSON.stringify</description>
 </snippet>

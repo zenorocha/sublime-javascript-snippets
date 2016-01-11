@@ -7,6 +7,6 @@ for (${1:prop} in ${2:obj}) {
 }
 ]]></content>
 	<tabTrigger>fi</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.js, source.jsx, source.ts</scope>
 	<description>for in</description>
 </snippet>

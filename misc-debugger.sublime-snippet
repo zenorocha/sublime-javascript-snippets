@@ -3,6 +3,6 @@
 debugger;
 ]]></content>
 	<tabTrigger>de</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.js, source.jsx, source.ts</scope>
 	<description>debugger</description>
 </snippet>

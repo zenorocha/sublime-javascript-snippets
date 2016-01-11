@@ -3,6 +3,6 @@
 ${1:methodName}.apply(${2:context}, [${3:arguments}])
 ]]></content>
 	<tabTrigger>apply</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.js, source.jsx, source.ts</scope>
 	<description>method.apply()</description>
 </snippet>

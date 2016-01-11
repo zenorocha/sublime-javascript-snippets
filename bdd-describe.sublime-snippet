@@ -5,6 +5,6 @@ describe('${1:description}', function() {
 });
 ]]></content>
 	<tabTrigger>desc</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.js, source.jsx, source.ts</scope>
 	<description>BDD describe</description>
 </snippet>

@@ -5,6 +5,6 @@ ${1:myArray}.forEach(function(${2:elem}) {
 });
 ]]></content>
 	<tabTrigger>fe</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.js, source.jsx, source.ts</scope>
 	<description>forEach</description>
 </snippet>

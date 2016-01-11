@@ -3,6 +3,6 @@
 require('${1:module}');
 ]]></content>
 	<tabTrigger>re</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.js, source.jsx, source.ts</scope>
 	<description>require</description>
 </snippet>

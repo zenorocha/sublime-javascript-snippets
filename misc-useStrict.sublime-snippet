@@ -3,6 +3,6 @@
 'use strict';
 ]]></content>
 	<tabTrigger>us</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.js, source.jsx, source.ts</scope>
 	<description>use strict</description>
 </snippet>

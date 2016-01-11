@@ -3,6 +3,6 @@
 JSON.parse(${1:obj});
 ]]></content>
 	<tabTrigger>jp</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.js, source.jsx, source.ts</scope>
 	<description>JSON.parse</description>
 </snippet>

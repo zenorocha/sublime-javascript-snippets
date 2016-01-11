@@ -5,6 +5,6 @@
 })(window, document);
 ]]></content>
 	<tabTrigger>iife</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.js, source.jsx, source.ts</scope>
 	<description>immediately-invoked function expression</description>
 </snippet>

@@ -5,6 +5,6 @@ function(${1:arguments}) {
 }
 ]]></content>
 	<tabTrigger>afn</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.js, source.jsx, source.ts</scope>
 	<description>anonymous function</description>
 </snippet>

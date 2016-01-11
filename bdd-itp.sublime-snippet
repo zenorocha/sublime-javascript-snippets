@@ -3,6 +3,6 @@
 it('${1:description}');
 ]]></content>
 	<tabTrigger>itp</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.js, source.jsx, source.ts</scope>
 	<description>BDD it pending</description>
 </snippet>

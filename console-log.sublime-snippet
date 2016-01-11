@@ -3,6 +3,6 @@
 console.log(${1:obj});
 ]]></content>
 	<tabTrigger>cl</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.js, source.jsx, source.ts</scope>
 	<description>console.log</description>
 </snippet>

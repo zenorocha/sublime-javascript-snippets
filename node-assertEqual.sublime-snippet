@@ -3,6 +3,6 @@
 assert.equal(${1:actual}, ${2:expected});
 ]]></content>
 	<tabTrigger>ase</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.js, source.jsx, source.ts</scope>
 	<description>assert.equal</description>
 </snippet>

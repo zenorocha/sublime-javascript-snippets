@@ -5,6 +5,6 @@ ${1:document}.addEventListener('${2:event}', function(e) {
 });
 ]]></content>
 	<tabTrigger>ae</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.js, source.jsx, source.ts</scope>
 	<description>addEventListener</description>
 </snippet>

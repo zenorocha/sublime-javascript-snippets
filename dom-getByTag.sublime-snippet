@@ -3,6 +3,6 @@
 ${1:document}.getElementsByTagName('${2:tag}');
 ]]></content>
 	<tabTrigger>gt</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.js, source.jsx, source.ts</scope>
 	<description>getElementsByTagName</description>
 </snippet>

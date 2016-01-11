@@ -5,6 +5,6 @@ it('${1:description}', function(done) {
 });
 ]]></content>
 	<tabTrigger>ita</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.js, source.jsx, source.ts</scope>
 	<description>BDD it asynchronous</description>
 </snippet>

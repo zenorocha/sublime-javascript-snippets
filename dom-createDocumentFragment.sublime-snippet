@@ -3,6 +3,6 @@
 ${1:document}.createDocumentFragment(${2:elem});
 ]]></content>
 	<tabTrigger>cdf</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.js, source.jsx, source.ts</scope>
 	<description>createDocumentFragment</description>
 </snippet>

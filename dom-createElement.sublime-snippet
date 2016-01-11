@@ -3,6 +3,6 @@
 ${1:document}.createElement(${2:elem});
 ]]></content>
 	<tabTrigger>cel</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.js, source.jsx, source.ts</scope>
 	<description>createElement</description>
 </snippet>

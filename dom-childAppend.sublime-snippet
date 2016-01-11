@@ -3,6 +3,6 @@
 ${1:document}.appendChild('${2:elem}');
 ]]></content>
 	<tabTrigger>ac</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.js, source.jsx, source.ts</scope>
 	<description>appendChild</description>
 </snippet>

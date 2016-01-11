@@ -3,6 +3,6 @@
 assert.deepEqual(${1:actual}, ${2:expected});
 ]]></content>
 	<tabTrigger>asd</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.js, source.jsx, source.ts</scope>
 	<description>assert.deepEqual</description>
 </snippet>

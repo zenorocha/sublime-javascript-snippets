@@ -3,6 +3,6 @@
 ${1:document}.setAttribute('${2:attr}', ${3:value});
 ]]></content>
 	<tabTrigger>sa</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.js, source.jsx, source.ts</scope>
 	<description>setAttribute</description>
 </snippet>

@@ -5,6 +5,6 @@ ${1:functionName}: function (${2:arguments}) {
 }
 ]]></content>
 	<tabTrigger>ofn</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.js, source.jsx, source.ts</scope>
 	<description>function as a property of an object</description>
 </snippet>

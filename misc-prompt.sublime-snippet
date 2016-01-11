@@ -3,6 +3,6 @@
 prompt('${1:msg}');
 ]]></content>
 	<tabTrigger>pm</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.js, source.jsx, source.ts</scope>
 	<description>prompt</description>
 </snippet>

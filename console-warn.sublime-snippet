@@ -3,6 +3,6 @@
 console.warn(${1:obj});
 ]]></content>
 	<tabTrigger>cw</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.js, source.jsx, source.ts</scope>
 	<description>console.warn</description>
 </snippet>

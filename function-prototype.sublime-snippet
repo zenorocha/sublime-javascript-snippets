@@ -5,6 +5,6 @@ ${1:ClassName}.prototype.${2:methodName} = function(${3:arguments}) {
 }
 ]]></content>
 	<tabTrigger>pr</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.js, source.jsx, source.ts</scope>
 	<description>prototype</description>
 </snippet>
