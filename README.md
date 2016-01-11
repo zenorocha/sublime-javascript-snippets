@@ -234,6 +234,20 @@ ${1:functionName}: function (${2:arguments}) {
 }
 ```
 
+## JSON
+
+### [jp] JSON.parse
+
+```javascript
+JSON.parse(${1:obj});
+```
+
+### [js] JSON.stringify
+
+```javascript
+JSON.stringify(${1:obj});
+```
+
 ## Timer
 
 ### [si] setInterval

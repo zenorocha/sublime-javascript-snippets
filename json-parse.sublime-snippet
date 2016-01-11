@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+JSON.parse(${1:obj});
+]]></content>
+	<tabTrigger>jp</tabTrigger>
+	<scope>source.js</scope>
+	<description>JSON.parse</description>
+</snippet>
