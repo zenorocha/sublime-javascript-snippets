@@ -24,6 +24,12 @@ console.dir(${1:obj});
 console.error(${1:obj});
 ```
 
+### [ci] console.info
+
+```javascript
+console.info(${1:obj});
+```
+
 ### [cl] console.log
 
 ```javascript
