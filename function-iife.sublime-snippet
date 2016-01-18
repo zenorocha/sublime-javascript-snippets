@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-(function(window, document, undefined) {
-	${1}
-})(window, document);
+(function(${1:window}, ${2:document}) {
+	${3}
+})(${1:window}, ${2:document});
 ]]></content>
 	<tabTrigger>iife</tabTrigger>
 	<scope>source.js, source.jsx, source.ts</scope>
