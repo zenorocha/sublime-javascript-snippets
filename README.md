@@ -79,7 +79,7 @@ ${1:document}.createElement(${2:elem});
 ### [cdf] createDocumentFragment
 
 ```javascript
-${1:document}.createDocumentFragment(${2:elem});
+${1:document}.createDocumentFragment();
 ```
 
 ### [ca] classList.add
