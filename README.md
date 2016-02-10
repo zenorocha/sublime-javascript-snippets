@@ -209,9 +209,9 @@ ${1:ClassName}.prototype.${2:methodName} = function(${3:arguments}) {
 ### [iife] immediately-invoked function expression
 
 ```javascript
-(function(window, document, undefined) {
+(function(${1:window}, ${2:document}) {
 	${1}
-})(window, document);
+})(${1:window}, ${2:document});
 ```
 
 ### [call] function call
