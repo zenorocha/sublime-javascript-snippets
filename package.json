@@ -8,8 +8,8 @@
 	"devDependencies": {
 		"grunt": "0.4.2",
 		"grunt-bump": "0.0.13",
-		"grunt-cli": "0.1.11",
-		"grunt-lintspaces": "0.3.1"
+		"grunt-cli": "1.2.0",
+		"grunt-lintspaces": "0.8.0"
 	},
 	"scripts": {
 		"test": "grunt"
